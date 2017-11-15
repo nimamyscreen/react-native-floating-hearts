@@ -2,10 +2,11 @@
   "name": "react-native-floating-hearts",
   "version": "0.0.7",
   "description": "Periscope floating hearts animation for React Native",
-  "homepage": "https://github.com/underscope/react-native-floating-hearts",
+  "homepage": "https://github.com/nimamyscreen/react-native-floating-hearts/",
   "repository": {
   	"type": "git",
-  	"url": "git+https://github.com/underscope/react-native-floating-hearts.git"
+  	"url": "git+https://github.com/nimamyscreen/react-native-floating-hearts.git"
+
   },
   "bugs": {
   	"url": "https://github.com/underscope/react-native-floating-hearts/issues"
