@@ -1,4 +1,4 @@
-react-native-floating-hearts-RN50
+react-native-floating-hearts-RN
 ============================
 Periscope floating hearts animation for React Native.
 
@@ -8,7 +8,7 @@ Installation
 ------------
 
 ```bash
-npm install --save react-native-floating-hearts-RN50
+npm install --save react-native-floating-hearts-RN
 ```
 
 Quick start
